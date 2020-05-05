@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+    <string name="title_text">Exit</string>
+    <string name="message_text">Do you want to exit?</string>
+    <string-array name="country_names">
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>HongKong</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Kuwait</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Pakistan</item>
+        <item>Qatar</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>United Kingdom</item>
+        <item>United States of America</item>
+        <item>Vietnam</item>
+        <item>Zimbabwe</item>
+
+    </string-array>
+    <string name="bangladesh_profile">
+        "A virtual guide to Bangladesh, an independent country since 1971, named officially People's Republic of Bangladesh.
+
+The country is situated in southern Asia in the Ganges River (Padma) delta on the Bay of Bengal. Bangladesh is bordered by India in west, north and east and has a short border with Myanmar (Burma) in south east.
+
+The state occupies an area of 143,998 km², compared it is slightly larger than Greece (131,957 km²) or slightly smaller than the U.S. state of Iowa.
+
+It is one of the world's most densely populated countries. Bangladesh has a population of more than 164 million people (in 2017). The majority of its population are followers of Islam (about 88%). Capital and largest city is Dhaka. Spoken language is Bangla (or Bengali by 98%)."
+</string>
+    <string name="australia_profile">"Some say, with Australia, you get it all: a continent with its own tectonic plate, a country with a population density others can only dream of, and a massive island with a 30,000 km long beach.
+
+Australia is situated entirely in the southern hemisphere, between the Indian and the Pacific ocean, south of Maritime Southeast Asia and north of the Antarctic.
+
+With an area of 7,617,930 km², Australia is almost (95%) as large as the continental USA (excluding Alaska;). The sixth-largest country in the world has a population of just 25.4 million inhabitants (2019).
+
+Australia shares maritime borders with East Timor, Indonesia, New Zealand, Papua New Guinea, the Solomon Islands, and the islands of New Caledonia (a special collectivity of France).
+
+The country's capital city is Canberra; other major cities are Adelaide, Alice Springs, Brisbane (1.6 million) Darwin, Hobart, Melbourne (3.5 million), and Perth, the largest city is Sydney (4.2 million). The official language is English.
+"</string>
+    <string name="newzealand_profile">"New Zealand (NZ) is an island country in the South Pacific Ocean located about 2,000 km (1,300 mi) southeast of Australia. The island-nation consists of some smaller islands and two main islands, the North Island (Te-Ika-a-Maui) and the South Island (Te Wai Pounamu), which are separated by the Cook Strait. New Zealand shares maritime borders with Australia, the island nations of Fiji and Tonga.
+
+New Zealand's islands are the surface area of the continent of Zealandia. Zealandia, now for the most part submerged, was formerly a large portion of the super-continent of Gondwanaland.
+
+The geopolitical entity of the Realm of New Zealand comprises New Zealand, the Cook Islands, Niue (an island), Tokelau (some coral atolls), and the Ross Dependency, a region in Antarctica.
+
+With an area of 270,467 km², the country is slightly larger than the United Kingdom (242,900 km²), or about the size of the US State of Colorado.
+
+New Zealand has a population of 4.9 million people (beginning 2020). The capital is Wellington, the country's largest city is Auckland. Spoken languages are English (95%) and Māori, the language of the indigenous Māori people of New Zealand.
+"</string>
+    <string name="zimbabwe_profile">"ZimbabweA virtual guide to Zimbabwe, a landlocked country in South East Africa, separated from Zambia by the Zambezi River. The Limpopo River in south forms part of the border with South Africa, it is bordered in east by Mozambique, and in west by Botswana. The Namibia-Zambia-Botswana tripoint at the town of Kazungula (Zambia) lies about 100 meters from the Zimbabwe border and as such Namibia almost borders Zimbabwe.
+
+With an area of 390,757 km² (150,872 sq mi), compared it is about half the size of Turkey or slightly larger than the US State of Montana. Zimbabwe was formerly known as Rhodesia, it declared independence from the United Kingdom in 1965, but was only recognized in April 1980.
+
+The country has a population of 14.2 million people (2016 est.), most commonly spoken languages are English, Shona and Ndebele."</string>
+    <string name="usa_profile">"A virtual guide to the United States of America, a country of 50 states, covering the central part of North America.
+The Continental United States is bordered by the Atlantic Ocean in the east and the Pacific Ocean in the west.
+
+
+The USA borders Canada in the north; its southern 3,155 km long border to Mexico is partly furnished with a great wall (or fence). The United States also shares maritime borders with the Bahamas, Cuba, and Russia.
+
+With an area of 9,833,516 km², the USA is the third-largest country in the world. The country is more than twice the size of the European Union or about slightly more than half the size of Russia.
+
+The United States has a population of 326 million people, (in 2019), the capital city is Washington D.C., the largest US city is New York. Spoken languages are English 80%, and Spanish 13%."</string>
+
+<string name="canada_profile">"The second largest country in the world occupies most of the northern part of North America, covering the vast land area from the United States in south to the Arctic Circle in the north. It is a country of enormous distances and rich natural resources.
+
+Long time part of colonial North America, Canada became a self-governing colony in the mid 19th century (1867) while retaining ties to the British crown.
+
+Canada is bordered by Alaska (USA) in west, and by 12 US states of the continental United States in south, the country shares maritime borders with Greenland (an autonomous territory of Denmark) and Saint Pierre and Miquelon, an island which belongs to France.
+
+The country occupies an area of 9,984,670 km², making it the largest country in the Western Hemisphere. Compared it is slightly larger than the US, or 18 times the size of France.
+
+36.3 million people (in 2017) live in the country, this is about 10% of the population of neighboring USA. Capital city is Ottawa, largest city is Toronto, spoken languages are English and French."</string>
+    
+    <string name="russia_profile">"The world's largest country. The country, officially the Russian Federation, which is commonly referred to as Russia, is located partly in Eastern Europe and partly in North Asia; it borders the Arctic Ocean to the north.
+
+Russia is bordered by 14 countries, Azerbaijan, Belarus, China, Estonia, Finland, Georgia, Kazakhstan, North Korea, Latvia, Lithuania, Mongolia, Norway, Poland, and Ukraine. It also shares maritime borders with Japan, Sweden, Turkey, and the United States.
+
+With an area of 17,098,242 km², the country is more than twice the size of the contiguous United States. It is the largest country in the world (by area) and covers more than 11% of the Earth's landmass. However, vast regions of the country were uninhabited or uninhabitable.
+
+Russia is a country with a low population density (8.5 people/km², compared with Germany 226 people/km², and the USA about 33 people/km²). But still, Russia has a population of 146.8 million people (in 2020), it is the number 9 in the Top 10 of the most populous countries. Most Russians live in the westernmost fifth of the country in the European part of Russia.
+The capital and largest city is Moscow, the core of political power and the center of culture and trade. St. Petersburg, the former imperial capital, is Russia's second-largest city and an important Russian port on the Baltic Sea.
+
+"</string>
+    <string name="kuwait_profile">"The oil-rich, family-run emirate in the Middle East is situated on the Arabian Peninsula, bordering the northwestern part of the Persian Gulf (Arabian Gulf).
+
+Kuwait borders Iraq and Saudi Arabia, and it shares maritime boundaries with Iran. Several islands belong to Kuwait, the largest are Bubiyan, Warbah, and Failaka islands, situated off the coast of the mainland.
+
+With an area of 17,818 km², the emirate is somewhat smaller than twice the size of Cyprus, or slightly smaller than New Jersey.
+
+Kuwait has a population of 4.8 million inhabitants (in 2019); about one-third are Kuwaiti nationals, the others are expatriates and foreigners. The capital of the emirate is Kuwait (City). Spoken language is Arabic, English is the lingua franca. The official religion in Kuwait is Islam. Kuwait is one of six member states of the Gulf Cooperation Council (GCC) and a member state of the League of Arab States.
+ "</string>
+
+    <string name="qatar_profile">"Officially the State of Qatar, an independent emirate (an Arabic Islamic monarchy) in the Gulf Region.
+
+The country is situated on a peninsula that extends from the Arabian Peninsula approximately 160 km (99 mi) north into the Persian (Arab) Gulf, it is bordered by Saudi Arabia. Qatar shares maritime borders with Bahrain, Iran, and the United Arab Emirates.
+
+The country covers an area of 11,586 km² (4,473 sq mi) making Qatar about 1.25 times larger than Cyprus, or also somewhat larger than Puerto Rico.
+
+The emirate has a population of 2.6 million inhabitants (end 2016), but Qatari nationals represent only a minority. Capital and largest city is Doha (Ad Dawhah, pop 800,000). Spoken language is Arabic (official)."</string>
+
+    <string name="saudiarabia_profile">"Officially the Kingdom of Saudi Arabia, a desert country and an Arab Muslim State situated in Southwest Asia. Saudi Arabia occupies most of the Arabian Peninsula, bordering the Red Sea in west and the Persian Gulf in east. It is bordered by Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, and Yemen. The country shares maritime borders with Bahrain, Egypt, Eritrea, Iran and Sudan.
+
+Saudi Arabia is the largest state in Western Asia with an area of more than 2 million km², it is almost four times the size of Metropolitan France or somewhat larger than Mexico.
+
+The country has a population of 31.7 million inhabitants (2016), capital and largest city is Riyadh, spoken language is Arabic. Saudi Arabia is a country with a predominantly Muslim population, state religion is Wahhabism, the ultraconservative form of Sunni Islam. 85–95% of Saudi Arabian citizens are Sunni Muslims, 10–15% are Shia. The country is home to Mecca, Islam’s holiest city, and the birthplace of the Prophet Muhammad.
+
+The Kingdom is ruled by the house of Saud along traditional Islamic lines. Saudi Arabia is the largest oil producer in the Middle East. The proven oil reserves in Saudi Arabia are the second largest in the world, estimated to be 268 billion barrels.
+
+"</string>
+    <string name="hongkong_profile">"Hong Kong is located on the Pearl River Delta south of the Chinese province of Guangdong and the Chinese city of Shenzhen, surrounded by the South China Sea.
+
+Hong Kong's major areas are the Kowloon Peninsula, which is connected with the mainland, the outlying mountainous Lantau Island, the smaller Lamma island, densely populated Hong Kong Island, plus more than 200 smaller islands. The territory is a major port city with an outstanding deepwater harbor.
+
+Hong Kong covers an area of 1,106 km² (427 sq mi), compared it is 1.5 times the size of Singapore or six times the size of Washington, DC. Hong Kong has a population of more than 7.5 million people (in 2019). Official languages are Chinese (Cantonese) and English. The city is regarded as a cosmopolitan center where 'East meets West' (like Chinese food and Disney Land), it has become one of the world's major financial and manufacturing centers."
+    </string>
+    <string name="japan_profile">"Japan, "Land of the Rising Sun," a nation that occupies a chain of islands in East Asia in the North Pacific Ocean roughly parallel with the eastern coast of Asia's mainland.
+
+The archipelago stretches from south of the Russian Sakhalin Island in the north to near Taiwan in the southwest. Japan's main islands are (from north to south) Hokkaido, Honshu, Shikoku, and Kyushu. The country shares maritime borders with China, North Korea, South Korea, the Philippines, Russia, and Taiwan.
+
+Japan is spread over 6000 islands and has a surface area of 377,915 km², making it slightly larger than Germany or somewhat smaller than the US state of California.
+
+The country has a slowly shrinking population, and the proportion of older people is rising. In 2020, 126 million people will live in Japan. The national capital and largest city is Tokyo. Other major cities are Fukuoka, Fukushima, Kobe, Kyoto, Nagoya, Osaka, Sapporo, Sendai, and Yokohama. The official language is Japanese."
+    </string>
+    <string name="india_profile">"The vast country in South-Central Asia that occupies the greater part of the Indian subcontinent. It borders the Himalayas in the north, the Arabian Sea in the west, the Bay of Bengal in the east, and the Laccadive Sea in the south. India shares borders with Bangladesh, Bhutan, Myanmar (Burma), China (Xizang - Tibet Autonomous Region), Nepal, and Pakistan, and it shares maritime borders with Indonesia, the Maldives, Sri Lanka, and Thailand.
+
+
+India is the second-most populous country in the world (after China), with an estimated population of 1.36 billion people (in 2019). The country is subdivided into 29 states and seven Union Territories.
+
+With an area of 3,287,263 km², India is the 7th largest country in the world, about one-third the size of the USA.
+
+Capital and largest urban area of India is (New) Delhi; the second largest city is Mumbai. The official languages are Hindi-Urdu and English (the Indian Constitution lists 22 recognized languages).
+
+"</string>
+    <string name="pakistan_profile">"Islamic Republic of Pakistan, a country in South Asia with a coastline on the Arabian Sea in south. Pakistan is bordered by Afghanistan, China, India, and Iran.
+
+Within Pakistan's landscape there is the flat fertile Indus plain in east, nurtured by the Indus, the country's longest river and a key water resource. Pakistan's north is mountainous. The nation's highest mountains are in the Himalayas in north east. Pakistan's largest and least populated province is Balochistan situated on the Balochistan Plateau in the south and west.
+
+The country occupies an area of 796,095 km², compared it is slightly larger than Turkey (783,562 km²) or slightly less than twice the size of the U.S. state of California.
+
+Pakistan has a population of 188 million people (data from Statistics Division, 2015).
+Capital is Islamabad. Main port, largest city and business capital of Pakistan is Karachi, second largest city is Lahore. Other major Pakistani cities: Faisalabad, Rawalpindi, Multan, Gujranwala, Hyderabad, Peshawar, and Quetta.
+Spoken languages are Urdu (a form of Hindustani), English (both official), Punjabi, Sindhi, Dari, Balochi, and Pashto."</string>
+
+    <string name="malaysia_profile">"Malaysia consists of two geographical regions divided by the South China Sea: the peninsular Malaysia (or West Malaysia) on the Malay Peninsula bordered by Thailand on the north and Singapore in south, and Malaysian Borneo (or East Malaysia) located on the northern part of the island of Borneo in the South China Sea, bordering Indonesia and surrounding the Sultanate of Brunei. The country shares also maritime borders with the Philippines and Vietnam.
+
+Malaysia covers a total area of 329,847 km², making it slightly larger than Norway, or slightly larger than the U.S. state of New Mexico. Highest mountain is Mount Kinabalu with 4,095 m on the island of Borneo. Mt. Kinabalu and the surrounding Kinabalu Park official website are a UNESCO World Heritage Site.
+
+Malaysia has a population of 31.6 million people (in 2016). Largest city and the national capital is Kuala Lumpur. Spoken languages are Malay (official), English, Tamil, and Chinese (Cantonese)."
+    </string>
+    <string name="vietnam_profile">"Vietnam, officially the Socialist Republic of Vietnam, is a long streched country along the eastern coast of the Indochinese Peninsula.
+
+Vietnam borders China in north, Laos and Cambodia in west. The nation is bordering the South China Sea in east, and the Gulf of Tonkin with the island of Hainan Dao (China) in north-east. The country shares maritime borders with Indonesia, Malaysia, Philippines, and Thailand.
+
+With an area of 331,689 km² Vietnam is about three times the size of Bulgaria or slightly larger than the U.S. state of New Mexico.
+
+Vietnam has a population of 92.6 million people (in 2016), it is the 13th most populous country in the world.
+Spoken language is Vietnamese, English is increasingly favored as a second language, and there are still people speak some French.
+
+Capital city of Vietnam is Hanoi (Ha Noi), former capital of the Republic of Vietnam and largest city is Ho Chi Minh City (also known as Saigon)."
+    </string>
+    <string name="egypt_profile">"a transcontinental country situated in northeastern Africa and on the Sinai Peninsula in Western Asia (Middle East). The country has a coastline at the Mediterranean Sea in north, and the Gulf of Suez and the Red Sea in east. It is bordered by Libya in west, the Palestinian territory (Gaza Strip) and Israel in north east, and Sudan in south. Egypt shares maritime borders with Cyprus, Greece, Jordan, Saudi Arabia, and Turkey.
+
+The Arab Republic of Egypt (the official name) covers an area of 1 million km², this is almost twice the size of France or more than twice the size of the U.S. State of California. Due to its large desert regions, the country's population is concentrated along the alluvial plains of the Nile Valley and Delta and along its coasts, only about 3% of the territory is inhabited.
+
+Egypt has a population of approximately 92.4 million inhabitants (2017). Capital and largest city is  Cairo. Spoken language are modern Standard Arabic, colloquial language is the Egyptian-Arabic dialect. Egypt is a country with a predominantly Muslim population, about 87% of Egyptians are Sunni Muslim. Islam religion controls many aspects of social life and is endorsed by law.
+
+"</string>
+    <string name="germany_profile">"Officially the Federal Republic of Germany, a sovereign state in Central Europe, bordered in north by the North Sea, the Baltic Sea and Denmark, in west by the Netherlands, Belgium, Luxembourg, and France, in south by Switzerland, and Austria, in east by the Czech Republic, and Poland. Additionally the country shares maritime borders with Sweden, and the United Kingdom.
+
+An area of 357,022 km² making Germany the seventh largest country in Europe, compared it is about two-thirds the size of France, or slightly smaller than the U.S. state of Montana.
+
+Germany has a population of 81,7 million people (2015); capital and largest city is Berlin with about 3.3 million inhabitants.
+
+Official language is German (Standard German, German: Hochdeutsch), a variety of German dialects are spoken in specific regions. About 50 % of the Germans are able to speak English as a second language."
+    </string>
+    <string name="france_profile">"France is located on the western edge of Europe, bordered by the Bay of Biscay (North Atlantic Ocean) in the west, by the English Channel in the northwest, and by the North Sea in the north. France borders Belgium and Luxembourg in the northeast, Germany, Switzerland, and Italy in the east, the Mediterranean Sea, Monaco, Spain and Andorra in the south. In addition, France shares maritime borders with the United Kingdom.
+
+Metropolitan France, or Mainland France, covers an area of 551,695 km²; it includes the island of Corsica. Compared, it is more than twice the size of the United Kingdom or more than twice the size of the U.S. state of Colorado.
+
+France has a total population of 67 million people (in 2020), 64.8 million inhabitants in Metropolitan France (the European part of France plus Corsica), and about 2.2 million in its overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion). Other major dependencies are French Polynesia and New Caledonia.
+
+The largest city and capital is Paris. Spoken language is French (official)."</string>
+    <string name="unitedkingdom_profile">"The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom or the UK or Britain, or even England, is a country in northwestern Europe that comprises England, Wales, Scotland, and the province of Northern Ireland, which occupies the northeastern part of the island of Ireland. On the island of Ireland, there is the country's only land border, the one with the Republic of Ireland.
+
+The UK is separated from continental Europe by the English Channel. The kingdom is situated on an archipelago known as the British Isles with the two main islands Great Britain and Ireland, plus the surrounding island groups of the Hebrides, the Shetlands, the Orkneys, the Isle of Man, and the Isle of Wight. The island group is located southeast of Iceland, west of Norway and Denmark, between the North Sea in the east and the North Atlantic Ocean in the west. The UK shares maritime borders with Belgium, Denmark, France, Germany, the Netherlands, Norway, and the Faroe Islands (Denmark).
+
+With an area of 242,900 km², the United Kingdom is not quite half the size of Spain, or slightly smaller than the U.S. state of Oregon.
+
+The UK has a population of 66.4 million people (in 2019), the capital and largest city is London. Spoken language is, guess what, British English, ok there is also Welsh, Irish Gaelic, and Scottish Gaelic.
+"</string>
+    <string name="denmark_profile">"The Kingdom of Denmark, a Scandinavian country situated on the Jutland Peninsula and several islands, north of Germany. The last dependencies of Denmark are the Faroe Islands‎ and Greenland. The country shares maritime borders with Norway, Sweden, Poland, and the United Kingdom.
+
+
+Denmark covers an area of 42,916 km², making it slightly larger than the Netherlands, or slightly less than twice the size of the US state of Massachusetts.
+
+The country has a population of 5.7 million people (in 2016). Capital and largest city is Copenhagen. Spoken languages are Danish and some German. English is the predominant second language. Faroese is spoken in the Faroe Islands, Greenlandic in Greenland, as mentioned, both dependencies of the kingdom.
+"</string>
+
+
+
+
+
+
+</resources>
